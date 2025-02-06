@@ -275,9 +275,6 @@ header
 update_system
 install_apt_packages
 install_snap_packages
-install_python
-install_golang
-install_terraform_ls
 install_nvm
 install_docker
 config_terminal
